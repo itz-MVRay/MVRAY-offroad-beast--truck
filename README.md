@@ -57,11 +57,3 @@ The GitRaptor V8 is a high-performance, terrain-adaptive pickup engineered for t
 
 ---
 
-## 🧠 Tactical Verdict
-> “This pickup isn’t just a hauler—it’s a terrain-adaptive command unit. Whether towing a Miata, crawling through jungle, or leading a squad convoy, GitRaptor V8 is built to dominate.”
-
----
-
-## 🚀 Deployment Status
-**Ready for squad ops, convoy missions, and stealth travel.**  
-**Next module**: Tactical trailer spec or squad gear loadout matrix.
